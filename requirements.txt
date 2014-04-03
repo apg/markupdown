@@ -1,0 +1,4 @@
+Markdown==2.4
+bottle==0.12.5
+gunicorn==18.0
+wsgiref==0.1.2
