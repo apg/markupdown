@@ -1,11 +1,9 @@
-# Markupdown: A simple API for converting between HTML and Markdown
+**Markupdown:** A simple API for converting between HTML and Markdown
 
 ## Overview
 
 Markupdown is a simple REST based API for converting between Markdown,
-HTML and then back again. It currently lives at:
-
-    [http://markupdown.herokuapp.com](http://markupdown.herokuapp.com)
+HTML and then back again. It currently lives at [http://markupdown.herokuapp.com](http://markupdown.herokuapp.com)
 
 ## Usage
 
